@@ -1,0 +1,4 @@
+6. Explique if (num=10) ... O que irá acontecer?
+
+Acontecerá que a variavel num passará a ter o valor 10, e apos testes realizados verificamos que essa condição sempre dará verdadeiro.
+Se intenção for a comparação da variavel num com o valor 10 a condição certa seria: if(num==10).
